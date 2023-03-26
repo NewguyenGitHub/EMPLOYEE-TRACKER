@@ -39,8 +39,15 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Installation
 
-npm i
-node index.js
+npm init
+npm i inquirer@8.2.4
+npm install mysql2
+npm install console-table
+
+mysql -u root -p
+source db/schema.sql
+source db/seeds.sql
+npm start
 
 ## Usage
 
