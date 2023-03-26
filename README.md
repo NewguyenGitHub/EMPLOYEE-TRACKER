@@ -46,7 +46,7 @@ node index.js
 
 This is a file that allows a business owner to view and manage departments to be able to organize and plan their business.
 
-[EMPLOYEE-TRACKER-Walk-Through]()
+[EMPLOYEE-TRACKER-Walk-Through](https://user-images.githubusercontent.com/118239578/227795373-e9a2226f-c28a-4f2a-8a34-284556c35bfb.mp4)
 
 ![EMPLOYEE-TRACKER-Terminal](assets/demo/EMPLOYEE-TRACKER-TERMINAL.JPG)
 
