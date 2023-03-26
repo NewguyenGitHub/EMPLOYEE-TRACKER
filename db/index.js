@@ -9,7 +9,8 @@ class EmployeeDB {
   // Show All Departments
   showDepartments() {
     return this.connection.promise().query(
-        `SELECT department.id, department.title FROM department;`
+        `SELECT department.id, department.title FROM department 
+        ORDER BY ID;`
     );
   }
 
@@ -17,7 +18,8 @@ class EmployeeDB {
   showRoles() {
     return this.connection.promise().query(
         `SELECT role.id, role.title, department.title AS department, role.salary FROM role 
-        LEFT JOIN department on role.department_id = department.id;`
+        LEFT JOIN department on role.department_id = department.id
+        ORDER BY ID;`
     );
   }
 
@@ -28,7 +30,8 @@ class EmployeeDB {
         CONCAT(manager.first_name, ' ', manager.last_name) AS manager FROM employee 
         LEFT JOIN role on employee.role_id = role.id
         LEFT JOIN department on role.department_id = department.id
-        LEFT JOIN employee manager on manager.id = employee.manager_id;`
+        LEFT JOIN employee manager on manager.id = employee.manager_id
+        ORDER BY ID;`
     );
   }
 

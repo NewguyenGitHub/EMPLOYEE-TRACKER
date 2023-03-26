@@ -46,13 +46,23 @@ node index.js
 
 This is a file that allows a business owner to view and manage departments to be able to organize and plan their business.
 
-[EMPLOYEE-TRACKER-Walk-Through](https://user-images.githubusercontent.com/118239578/219817208-510538be-c49a-4dcb-a258-56d43c496d06.mp4)
+[EMPLOYEE-TRACKER-Walk-Through]()
 
-![EMPLOYEE-TRACKER-Terminal](assets/demo/Professional-README-Generator-Terminal.JPG)
+![EMPLOYEE-TRACKER-Terminal](assets/demo/EMPLOYEE-TRACKER-TERMINAL.JPG)
 
-![EMPLOYEE-TRACKER-](assets/demo/Professional-README-Generator-README-file.JPG)
+![EMPLOYEE-TRACKER-VIEW-ALL-DEPARTMENTS](assets/demo/EMPLOYEE-TRACKER-VIEW-ALL-DEPARTMENTS.JPG)
 
-![EMPLOYEE-TRACKER-](assets/demo/Professional-README-Generator-README-file-preview.JPG)
+![EMPLOYEE-TRACKER-VIEW-ALL-ROLES](assets/demo/EMPLOYEE-TRACKER-VIEW-ALL-ROLES.JPG)
+
+![EMPLOYEE-TRACKER-VIEW-ALL-EMPLOYEES](assets/demo/EMPLOYEE-TRACKER-VIEW-ALL-EMPLOYEES.JPG)
+
+![EMPLOYEE-TRACKER-ADD-DEPARTMENT](assets/demo/EMPLOYEE-TRACKER-ADD-DEPARTMENT.JPG)
+
+![EMPLOYEE-TRACKER-ADD-ROLE](assets/demo/EMPLOYEE-TRACKER-ADD-ROLE.JPG)
+
+![EMPLOYEE-TRACKER-ADD-EMPLOYEE](assets/demo/EMPLOYEE-TRACKER-ADD-EMPLOYEE.JPG)
+
+![EMPLOYEE-TRACKER-UPDATE-EMPLOYEE](assets/demo/EMPLOYEE-TRACKER-UPDATE-EMPLOYEE.JPG)
 
 ## Credits
 
